@@ -13,17 +13,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 0_tank_belakang_ALBEDO.002
-    second: {fileID: 2800000, guid: fd51654c54da7754cb9f88c3e266c495, type: 3}
+    second: {fileID: 2800000, guid: 53c9aea6e1dc7b04ab1d99dacab96a78, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 0_tank_belakang_METAL.002
-    second: {fileID: 2800000, guid: c060588964946af46a302e6d849b5b48, type: 3}
+    second: {fileID: 2800000, guid: 746c26a24b45fb44d8838639e5a9c9c3, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 0_tank_belakang_NORMAL.002
-    second: {fileID: 2800000, guid: c206366c5b3afd74ca28fb4e84cebe2a, type: 3}
+    second: {fileID: 2800000, guid: 3383baf2b1eabc24ba64e4e8af0c301e, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
